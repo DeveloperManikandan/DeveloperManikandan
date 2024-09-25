@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manikandan
-- 👀 I’m interested in Software developing.
-- 🌱 I’m currently learning mern and mean stack
+- 👀 Software developer.
 
 <!---
 DeveloperManikandan/DeveloperManikandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
